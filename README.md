@@ -546,7 +546,7 @@ Blender'da modellendi, Arduino UNO R4 WiFi modeli [GrabCAD](https://grabcad.com/
 
 ## Praxtify
 
-**Teoriyi pratiğe dönüştürüyoruz.** Robotik, gömülü sistemler ve yapay zekâyı çalışan kodla, adım adım anlatıyoruz.
+**Teoriyi pratiğe dönüştürüyoruz.** Robotik, gömülü sistemler ve yapay zekayı çalışan kodla, adım adım anlatıyoruz.
 Bu projenin videosu ve yeni projeler için:
 
 <p align="center">
